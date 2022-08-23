@@ -64,6 +64,7 @@ repository](https://github.com/rucio/documentation) before making a submission.
 - Rob Barnsley <R.Barnsley@skatelescope.org>, 2020
 - Alan Malta Rodrigues <alan.malta@cern.ch>, 2020
 - Aksel Lunde Aase <aksel.lunde.aase@gmail.com>, 2022
+- Chad Bellinger <cb327@humboldt.edu>
 
 # Organisations employing contributors
 
@@ -90,3 +91,4 @@ repository](https://github.com/rucio/documentation) before making a submission.
 - Science and Technology Facilities Council (UK)
 - Brookhaven National Laboratory (USA)
 - Institut Teknologi Bandung (Indonesia)
+- Cal Poly Humboldt (USA)
